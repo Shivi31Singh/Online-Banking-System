@@ -1,0 +1,58 @@
+body
+{
+	margin: 0;
+	height: 100%;
+}
+
+.custom-bg
+{
+	background:rgb(128, 128, 64)!important;	
+}
+
+.custom-bg-1
+{
+	background-color:#d6c1cb!important;	
+}
+
+.border-color
+{
+	border-color: #a6768c!important;
+}
+
+.text-color
+{
+	color:rgb(0, 128, 64);
+}
+
+.non-underline-link{
+   text-decoration: none !important;
+}
+
+.padding {
+    padding: 2rem !important
+}
+
+
+.card-header {
+    background-color: rgb(0, 128, 64);
+    border-bottom: 1px solid rgb(128, 128, 64)
+}
+
+.card-border {
+	border-color: 3px solid rgb(128, 128, 64); 
+}
+
+.my-custom-scrollbar {
+position: relative;
+height: 200px;
+overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+display: block;
+}
+
+.custom-modal-dialog {
+    max-width: 100%; /* Adjust the width as needed */
+}
+
